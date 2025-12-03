@@ -1,8 +1,7 @@
-
 ````md
 # 💻 Градов Совачка
 
-![Typing](https://readme-typing-svg.herokuapp.com?color=00FFCC&lines=Кодер+%7C+DevOps+%7C+Архітектор+рішень;ZeroInc+System+Engineer;Тільки+чистий+код)
+![Typing](https://readme-typing-svg.herokuapp.com?color=00FFCC&lines=Кодер+%7C+DevOps+%7C+Архитектор+решений;ZeroInc+System+Engineer;Только+чистый+код)
 
 [![Bio](https://img.shields.io/badge/Bio-ZeroInc.tech-0A0A0A?style=for-the-badge&logo=matrix&logoColor=00FFCC)](https://bio.zeroinc.tech)
 [![Main](https://img.shields.io/badge/Main-ZeroInc.tech-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00FFCC)](https://zeroinc.tech)
@@ -10,44 +9,40 @@
 
 ---
 
-## 🧠 Про мене
-```bash
-> whoami
-Градов Совачка — системний розробник і DevOps-інженер.
-Створюю архітектуру, де стабільність і швидкість — аксіома.
-````
+## 🧠 Про меня
 
-* ⚙️ Розвиваю екосистему **ZeroInc**
-* 🚀 Працюю з мікросервісами та CI/CD
-* 🧩 Інтегрую DevOps у кожен шар системи
-* 💡 Стрімлюсь до самодокументованого коду та автоматизації всього
+Градов Совачка — системный разработчик и DevOps-инженер.  
+Создаю архитектуру, где стабильность и скорость — аксиома.
+
+- ⚙️ Развиваю экосистему **ZeroInc**  
+- 🚀 Работаю с микросервисами и CI/CD  
+- 🧩 Интегрирую DevOps в каждый слой системы  
+- 💡 Стремлюсь к самодокументируемому коду и полной автоматизации  
 
 ---
 
-## ⚙️ Технології
-
-![Tech icons](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,go,python,docker,linux,postgres,redis,nginx,git,githubactions\&theme=dark)
-
----
-
-## 🚀 Проекти
-
-* **[ZeroInc.tech](https://zeroinc.tech)** — екосистема для розробки та автоматизації
-* **[Bio.ZeroInc.tech](https://bio.zeroinc.tech)** — інтерактивне BIO у вигляді терміналу з музикою та налаштуваннями
-* **[CleanGram.tech](https://cleangram.tech)** — високопродуктивний Telegram API Optimizer
+## ⚙️ Технологии
+![Tech icons](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,go,python,docker,linux,postgres,redis,nginx,git,githubactions&theme=dark)
 
 ---
 
-## 🛠️ DevOps & Інструменти
+## 🚀 Проекты
 
+- **[ZeroInc.tech](https://zeroinc.tech)** — экосистема для разработки и автоматизации  
+- **[Bio.ZeroInc.tech](https://bio.zeroinc.tech)** — интерактивное BIO в виде терминала с музыкой и настройками  
+- **[CleanGram.tech](https://cleangram.tech)** — высокопроизводительный Telegram API Optimizer  
+
+---
+
+## 🛠️ DevOps & Инструменты
 ```bash
 $ docker compose up -d
 $ kubectl apply -f system.yaml
 $ npm run build && next start
-```
+````
 
 * 🧰 Git · Nginx · Bash · Prometheus · Grafana · Systemd
-* 💡 Linux ядро · Автоматизація · Моніторинг · Оркестрація
+* 💡 Ядро Linux · Автоматизация · Мониторинг · Оркестрация
 
 ---
 
@@ -60,7 +55,7 @@ $ npm run build && next start
 
 ---
 
-## 📡 Контакти
+## 📡 Контакты
 
 [![Email](https://img.shields.io/badge/Email-gradov.sovochkin@zekilclient.ru-0A0A0A?style=for-the-badge\&logo=gmail\&logoColor=00FFCC)](mailto:gradov.sovochkin@zekilclient.ru)
 [![GitHub](https://img.shields.io/badge/GitHub-gradovsovachka-0A0A0A?style=for-the-badge\&logo=github\&logoColor=00FFCC)](https://github.com/gradovsovachka)
@@ -68,5 +63,4 @@ $ npm run build && next start
 
 ---
 
-*“Чистий код — це культура системного мислення.”*
-
+*"Чистый код — это культура системного мышления."*
