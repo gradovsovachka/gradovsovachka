@@ -1,6 +1,8 @@
+
+````md
 <h1 align="center">💻 Градов Совачка</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&lines=Кодер+%7C+DevOps+%7C+Архитектор+решений;ZeroInc+System+Engineer;Только+чистый+код" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&lines=Кодер+%7C+DevOps+%7C+Архітектор+рішень;ZeroInc+System+Engineer;Лише+чистий+код" />
 </p>
 
 <p align="center">
@@ -11,52 +13,59 @@
 
 ---
 
-### 🧠 Обо мне
+### 🧠 Про мене
 ```bash
 > whoami
-Градов Совачка — системный разработчик и DevOps-инженер.
-Создаю архитектуру, где стабильность и скорость — аксиома.
-```
+Градов Совачка — системний розробник і DevOps-інженер.
+Створюю архітектуру, де стабільність і швидкість — аксіома.
+````
 
-- ⚙️ Развиваю экосистему **ZeroInc**
-- 🚀 Работаю с микросервисами и CI/CD
-- 🧩 Интегрирую DevOps в каждый слой системы
-- 💡 Стремлюсь к самодокументируемому коду и автоматизации всего
+* ⚙️ Розвиваю екосистему **ZeroInc**
+* 🚀 Працюю з мікросервісами та CI/CD
+* 🧩 Інтегрую DevOps на кожен рівень системи
+* 💡 Прагну до самодокументованого коду й тотальної автоматизації
 
 ---
 
-### ⚙️ Технологический стек
+### ⚙️ Технологічний стек
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,go,python,docker,linux,postgres,redis,nginx,git,githubactions&theme=dark" />
 </p>
 
 ---
 
-### 🚀 Проекты
+### 🚀 Проєкти
 
 #### 🧩 [ZeroInc.tech](https://zeroinc.tech)
-Экосистема для разработки и автоматизации.
+
+Екосистема для розробки та автоматизації.
 
 #### 💾 [Bio.ZeroInc.tech](https://bio.zeroinc.tech)
-Интерактивное BIO в виде терминала с музыкой и настройками.
+
+Інтерактивне BIO у вигляді терміналу з музикою та налаштуваннями.
 
 #### 💬 [CleanGram.tech](https://cleangram.tech)
-Высокопроизводительный Telegram API Optimizer.
+
+Високопродуктивний Telegram API Optimizer.
 
 ---
 
 ### 🛠️ DevOps & Tools
+
 ```bash
 $ docker compose up -d
 $ kubectl apply -f system.yaml
 $ npm run build && next start
 ```
-🧰 Git · Nginx · Bash · Prometheus · Grafana · Systemd  
-💡 Linux ядро · Автоматизация · Мониторинг · Оркестрация
+
+🧰 Git · Nginx · Bash · Prometheus · Grafana · Systemd
+💡 Ядро Linux · Автоматизація · Моніторинг · Оркестрація
 
 ---
 
 ### 📊 GitHub Статистика
+
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=gradovsovachka&show_icons=true&theme=merko&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gradovsovachka&layout=compact&theme=merko" />
@@ -68,7 +77,8 @@ $ npm run build && next start
 
 ---
 
-### 📡 Контакты
+### 📡 Контакти
+
 <p align="center">
   <a href="mailto:gradov.sovochkin@zekilclient.ru"><img src="https://img.shields.io/badge/Email-gradov.sovochkin@zekilclient.ru-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FFCC" /></a>
   <a href="https://github.com/gradovsovachka"><img src="https://img.shields.io/badge/GitHub-gradovsovachka-0A0A0A?style=for-the-badge&logo=github&logoColor=00FFCC" /></a>
@@ -77,4 +87,5 @@ $ npm run build && next start
 
 ---
 
-<p align="center"><i>“Чистый код — это культура системного мышления.”</i></p>
+<p align="center"><i>“Чистий код — це культура системного мислення.”</i></p>
+```
